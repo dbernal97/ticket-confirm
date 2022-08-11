@@ -1,0 +1,1 @@
+export { CellsTicketConfirmUi } from './src/CellsTicketConfirmUi.js';
